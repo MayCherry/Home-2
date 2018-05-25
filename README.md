@@ -1,4 +1,9 @@
+<!--multilang v0 my:README.md -->
+<!--lang:my-->
+
 # ဆဌဂံ (Sahtagan)
+
+Language: ![Myanmar (Burmese)](https://raw.githubusercontent.com/codenautas/multilang/master/img/lang-en.png)
 
 ## ဆဌဂံမူရင်း (Sahtagan Origin)
 
