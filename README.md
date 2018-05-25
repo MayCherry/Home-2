@@ -3,8 +3,6 @@
 
 # ဆဌဂံ (Sahtagan)
 
-Language: ![Myanmar (Burmese)](https://raw.githubusercontent.com/codenautas/multilang/master/img/lang-en.png)
-
 ## ဆဌဂံမူရင်း (Sahtagan Origin)
 
 ဆဌဂံမူရင်း (Sahtagan Origin) ကတော့ ပညာရေး၊ ကျန်းမာရေး အစရှိတဲ့ နယ်ပယ်တွေမှာ ဝင်ရောက်ပါဝင်လှူဒါန်းနိုင်ရန် ချိတ်ဆက်ဆောင်ရွက်ရာမှာ လွယ်ကူဖို့ရာအတွက် နည်းပညာပိုင်းကနေဖွဲ့စည်းထားတဲ့ အသင်းအဖွဲ့လေးတစ်ခုပါ။ အဲဒီ့ community ကိုတော့ သူငယ်ချင်းတွေအားလုံး အသုံးပြုကြမယ်ထင်တဲ့ Facebook မှာ Group တစ်ခုလုပ်ထားပါတယ် - Group ရဲ့ link ကတော့ https://facebook.com/groups/sahtaganorigin ပါ။
