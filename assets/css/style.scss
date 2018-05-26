@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'Padauk';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Padauk/Padauk.eot');
+    src: url('../fonts/Padauk/Padauk.eot?#iefix') format('embedded-opentype'), local('Padauk'), url('../fonts/Padauk/Padauk.woff') format('woff'), url('../fonts/Padauk/Padauk.ttf') format('truetype'), url('../fonts/Padauk/Padauk.svg#áá­áá±á¬ááº-Regular') format('svg');
+}
+
+.wrapper section {
+    font-family: 'Padauk'
+}
